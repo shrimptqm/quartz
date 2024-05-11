@@ -1,21 +1,25 @@
 ---
-title: homepage
+title: pageA
 draft: false
 tags:
-  - example-tag
+  - template
 ---
+# 分栏效果
+ 
+--- start-multi-column: ID_rfie
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+>[!NOTE] 分栏一
+>	123
 
-# 这是主页
+--- column-break ---
+>[!TIP] 分栏二
+>	456
 
-- [[pageA]]
-- [[pageB]]
-- [[pageC]]
-- [[note]]
-
-2024-05-09 20:49
-2024-05-11 10:35
-
-----
+--- end-multi-column
+---
 <script src="https://giscus.app/client.js"
         data-repo="shrimptqm/quartz"
         data-repo-id="R_kgDOL5QOaw"
