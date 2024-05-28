@@ -20,5 +20,5 @@ tags:
         data-theme="preferred_color_scheme"
         data-lang="zh-CN"
         crossorigin="anonymous"
-        async>
+        async
 </script>
