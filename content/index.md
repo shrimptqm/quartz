@@ -2,33 +2,20 @@
 title: homepage
 draft: false
 tags:
-  - example-tag
+  - 知识管理
 ---
+
+欢迎来到ME_brain社区！
 
 # 这是主页
 
-- [[pageA]]
-- [[pageB]]
-- [[pageC]]
-- [[note]]
+- [[00_前言|前言]]
+- [[01_社区公约|社区公约]]
+- [[02_文档写作规范|文档写作规范]]
+- [[08_奖惩机制|奖惩机制]]
+- [[09_FAQ|FAQ]]
 
-2024-05-09 20:49
-2024-05-11 10:35
-2024-05-28 13:21
+# 知识管理相关基础知识
 
-----
-<script src="https://giscus.app/client.js"
-        data-repo="shrimptqm/quartz"
-        data-repo-id="R_kgDOL5QOaw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOL5QOa84CfRUs"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
+- [[DIKW]] [[DIKWP]]
+- [[PSCA]]
